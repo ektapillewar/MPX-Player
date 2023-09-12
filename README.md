@@ -4,7 +4,9 @@ This is a simple media player application built using Python's Tkinter and Pygam
 
 # Features
 Select and play MP3 audio files from your computer.
+
 Play, pause, and see the current playback time.
+
 User-friendly graphical interface with themed styling.
 
 # Usage
